@@ -1,6 +1,6 @@
 # Roseford
 
-**Entry 15 · Wave E — Systems (proposed) · Isolde · Rust**
+**Entry 15 · Wave E — Systems (adopted D-1130) · Isolde · Rust**
 
 A resurrected shrine maiden descends a sealed dungeon whose wards tune her — corruption is her power curve, her memory, and her price.
 

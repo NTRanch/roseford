@@ -1,6 +1,6 @@
 # Design — Roseford
 
-**Status:** design of record at stand-up (Owner ruling D-1123, 2026-11-08).
+**Status:** design of record at stand-up (Owner ruling D-1123, 2026-11-08). Wave E slot and heroine Isolde adopted as canon by Owner ruling D-1130 (2026-11-09).
 No playable build exists yet; the build is a later rung gated on this design
 and the week-15 preflight. Numbers in §4 are contracts: changing a band, a
 price, or a gate is a design change and is recorded in the CHANGELOG.

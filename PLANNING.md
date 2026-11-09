@@ -1,6 +1,6 @@
 # Planning — Roseford
 
-- **Program:** Torogao Jam Program (D-333), entry 15 (week 15), Wave E — Systems (proposed at stand-up under D-1123; Waves A–D closed at week 14 — this entry validates a whole state system rather than a sense or a feature)
+- **Program:** Torogao Jam Program (D-333), entry 15 (week 15), Wave E — Systems (proposed at stand-up under D-1123, adopted D-1130; Waves A–D closed at week 14 — this entry validates a whole state system rather than a sense or a feature)
 - **Cast:** Isolde (original heroine, new to the programme — see DESIGN.md §2)
 - **Language:** Rust (tiger-style-rust)
 - **Canon core:** A resurrected shrine maiden descends a sealed dungeon whose wards tune her — corruption is her power curve, her memory, and her price.
@@ -32,8 +32,9 @@ Compile to wasm32, inline the module (base64) in the single index.html; JS is lo
 
 ## Open preflight items
 
-- Wave E assignment is proposed, not ruled: the Owner may re-wave or
-  re-week this entry at the week-15 word.
+- Wave E assignment ADOPTED (D-1130, 2026-11-09): week 15, Wave E —
+  Systems. The Owner may still re-wave or re-week this entry at the
+  week-15 word.
 - GJ-06-class start gate for this week's toolchain (later weeks gate their
   own preflight; only W1's gate covers the program start).
 - GJ-07: 18+ flag, content warnings listed, itch ToS screen — verified live

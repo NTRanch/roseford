@@ -1,6 +1,6 @@
 # Roseford
 
-**Nice Thoughts Ranch** · Torogao Jam Program entry 15 (Wave E — Systems, proposed) · Isolde · **Rust**
+**Nice Thoughts Ranch** · Torogao Jam Program entry 15 (Wave E — Systems, adopted D-1130) · Isolde · **Rust**
 
 A resurrected shrine maiden descends a sealed dungeon whose wards tune her — corruption is her power curve, her memory, and her price.
 
