@@ -1,3 +1,5 @@
+> **Game page:** the full storefront page for this game lives at [docs/GAME-PAGE.md](docs/GAME-PAGE.md).
+
 # Roseford
 
 **Nice Thoughts Ranch** · Torogao Jam Program entry 15 (Wave E — Systems, adopted D-1130) · Isolde · **Rust**
